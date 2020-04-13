@@ -18,3 +18,5 @@ fields:
   - type: textarea
     name: options
     label: options
+pages:
+- exampleSite/content/post/new-post.md
